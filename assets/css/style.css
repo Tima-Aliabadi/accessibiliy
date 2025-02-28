@@ -331,3 +331,6 @@ footer {
         font-size: 11px;
     }
 }
+#suggestions {
+    color: #333; /* Darker color for better readability */
+}
